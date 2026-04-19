@@ -1,16 +1,21 @@
-## Hi there 👋
+# ⚡ Hey, I'm Rahul
 
-<!--
-**LaizyCoder/LaizyCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 21 • India 🇮🇳 • B.Sc. Computer Science @ BITS Pilani
 
-Here are some ideas to get you started:
+Welcome to my digital corner — where ideas become code, and curiosity turns into projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 I’m Rahul, a B.Sc. Computer Science student at **BITS Pilani**
+- 🐍 Currently learning **Python programming**
+- 🧠 Exploring much more across the tech world, one skill at a time
+- 🌱 Building consistency, creativity, and clean coding habits
+
+## ✨ Vibe
+
+I love turning “what if?” into “done.”  
+From writing my first Python scripts to diving deeper into tech, I’m on a mission to keep learning, keep building, and keep leveling up.
+
+---
+
+### 💡 “Code, Learn, Repeat.”
