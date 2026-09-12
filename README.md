@@ -1,6 +1,6 @@
 # ⚡ Hey, I'm Rahul
 
-> 21 • India 🇮🇳 • B.Sc. Computer Science @ BITS Pilani
+> 22 • India 🇮🇳 • B.Sc. Computer Science @ BITS Pilani
 
 Welcome to my digital corner — where ideas become code, and curiosity turns into projects.
 
